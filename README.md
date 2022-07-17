@@ -1,4 +1,4 @@
-# Veri-Yap-lar-ve-Algoritmalar-2
+# Veri Yapılar ve Algoritmalar-2
 Merge Sort Projesi
 # Proje 2 - Merge Sort
 
